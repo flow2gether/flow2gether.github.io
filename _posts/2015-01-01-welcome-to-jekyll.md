@@ -1,22 +1,23 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Everything Is OK!
 subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+author: flow2gether
+categories: intro
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  video: /assets/videos/roadcars.mp4
   loop: true
-  volume: 0.8
-  start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  volume: 0
+  start_at: 2
+  end_at: 17
+  image: https://cdn.pixabay.com/photo/2013/07/24/03/33/road-166543_1280.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: life book
 top: 1
 sidebar: []
 ---
