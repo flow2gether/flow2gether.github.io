@@ -34,7 +34,7 @@ I am currently on parental leave and have the enjoyable time with my child.
 
 ***
 
-## My Career...
+<!-- ## My Career...
 
 
 Data & Business analysis expert with over ten years of hands-on experience in data analysis, strategy and planning for business advisory to management 
@@ -121,4 +121,4 @@ business objects and improved the forecasting estimate accuracy within the 5% of
 
 * Set up budget planning of overhead cost of KRW 50 billion and controlled it to meet business target
 * Established internal expense management process for business plan
-* Developed contingency plan with cost-saving measures during global financial crisis in 2009
+* Developed contingency plan with cost-saving measures during global financial crisis in 2009 -->
