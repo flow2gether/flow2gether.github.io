@@ -162,8 +162,8 @@ night_mode: "mannual"
 # Page default value
 defaults:
   home:
-    heading: "Summer Sun Just Touched Horizon"
-    subheading: "Blue Hour On the Sea"
+    heading: "Univese In One Mind"
+    subheading: "마음 하나 속에 펼쳐진 우주"
 #     banner: "Your image url"
 
 # Banner default settings
