@@ -87,7 +87,6 @@ Data & Business analysis expert with over ten years of hands-on experience in da
 * Segmented Advertiser using RFM analysis and K-means clustering to prevent B2B customer churn
 * Automated daily sales report with R and provided the sales group with useful information for sales  -->
 
-
 #### Strategy & Planning Sr. Analyst | CJ CheilJedang :corn:  
 <img src = "https://kprc21482.cafe24.com/admin/data/webedit/20170718181522_mzergsyo.jpg" align="right" width = "12%" height = "20%">
 
