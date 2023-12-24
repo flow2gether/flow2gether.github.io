@@ -1,14 +1,12 @@
 // Add Font
-@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Nanum+Gothic&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Nanum+Gothic&family=Noto+Sans+KR&family=Roboto&display=swap');
 
 @charset "utf-8";
 
 // Define defaults for each variable.
 
 // Add Font
-$base-font-family: Gowun Dodum, Roboto,  Helvetica Neue, Helvetica, Arial, sans-serif, !default;
+$base-font-family: Roboto, Gowun Dodum, Helvetica Neue, Helvetica, Arial, sans-serif, !default;
 $base-font-size: 14px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
