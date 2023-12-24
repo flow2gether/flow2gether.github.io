@@ -34,13 +34,13 @@ I am currently on parental leave and have the enjoyable time with my child.
 
 ***
 
-<!-- ## My Career...
+## My Career...
 
 
 Data & Business analysis expert with over ten years of hands-on experience in data analysis, strategy and planning for business advisory to management 
 
-#### Data Analyst | VCNC :oncoming_taxi: <img src = "https://image.newdaily.co.kr/site/data/img/2020/09/28/2020092800025_0.jpg" align="right" width = "12%" height = "20%"> 
-
+####  Data Analyst | VCNC :oncoming_taxi:
+<img src = "https://image.newdaily.co.kr/site/data/img/2020/09/28/2020092800025_0.jpg" align="right" width = "12%" height = "20%">
 <small> 2021 - PRESENT</small>
 
 
@@ -59,7 +59,8 @@ Data & Business analysis expert with over ten years of hands-on experience in da
     - Ride Funnel; Dashboard showing the funnel from call to drop-off completion or cancellation
 * Trained and coached employees to expand data literacy within the organization
 
-#### Senior Applied Data Scientist(Team Lead) | dunnhumby :computer: <img src = "https://www.dunnhumby.com/wp-content/uploads/2023/03/dunnhumby-Logo-Black_RGB.webp" align="right" width = "12%" height = "20%">
+#### Senior Applied Data Scientist(Team Lead) | dunnhumby :computer:
+<img src = "https://www.dunnhumby.com/wp-content/uploads/2023/03/dunnhumby-Logo-Black_RGB.webp" align="right" width = "12%" height = "20%">
 
 <small>2020 - 2021</small> 
 
@@ -70,7 +71,8 @@ Data & Business analysis expert with over ten years of hands-on experience in da
 * Reviewed dunnhumby global science for business development
 * Checked the quality of the analysis report and managed junior data scientist
 
-#### AD Sales Planning & Analysis Sr.Manager | Joongang Ilbo :newspaper: <img src = "https://img.joongang.co.kr/pubimg/index/logo_thejoongang.png" align="right" width = "12%" height = "20%">
+#### AD Sales Planning & Analysis Sr.Manager | Joongang Ilbo :newspaper:  
+<img src = "https://img.joongang.co.kr/pubimg/index/logo_thejoongang.png" align="right" width = "12%" height = "20%">
 
 <small>2017 - 2020</small>
 
@@ -86,7 +88,8 @@ Data & Business analysis expert with over ten years of hands-on experience in da
 * Automated daily sales report with R and provided the sales group with useful information for sales
 
 
-#### Strategy & Planning Sr. Analyst | CJ CheilJedang :corn: <img src = "https://kprc21482.cafe24.com/admin/data/webedit/20170718181522_mzergsyo.jpg" align="right" width = "12%" height = "20%">
+#### Strategy & Planning Sr. Analyst | CJ CheilJedang :corn:  
+<img src = "https://kprc21482.cafe24.com/admin/data/webedit/20170718181522_mzergsyo.jpg" align="right" width = "12%" height = "20%">
 
 <small>2011 - 2017</small>
 
@@ -103,7 +106,8 @@ business objects and improved the forecasting estimate accuracy within the 5% of
     - CVP(Cost-Volume-Profit) analysis and financial scenario modeling(EBIT)
 
 
-#### Strategy & Planning Analyst | Oriental Brewery :beer: <img src = "https://www.theguru.co.kr/data/photos/20220625/art_16560467088015_0d0e41.jpg" align="right" width = "12%" height = "20%">
+#### Strategy & Planning Analyst | Oriental Brewery :beer:  
+<img src = "https://www.theguru.co.kr/data/photos/20220625/art_16560467088015_0d0e41.jpg" align="right" width = "12%" height = "20%">
 
 
 <small>2009 - 2011</small>
@@ -115,10 +119,23 @@ business objects and improved the forecasting estimate accuracy within the 5% of
 * Updated internal financial report; Volume, MS, commercial & marketing spending
 
 
-#### Business Planning Controller | SAMSUNG SNS :satellite: <img src = "https://image.edaily.co.kr/images/Photo/files/NP/S/2012/02/PS12022900205.JPG" align="right" width = "12%" height = "20%">
+#### Business Planning Controller | SAMSUNG SNS :satellite:  
+<img src = "https://image.edaily.co.kr/images/Photo/files/NP/S/2012/02/PS12022900205.JPG" align="right" width = "12%" height = "20%">
 
 <small>2006 - 2009</small>
 
 * Set up budget planning of overhead cost of KRW 50 billion and controlled it to meet business target
 * Established internal expense management process for business plan
-* Developed contingency plan with cost-saving measures during global financial crisis in 2009 -->
+* Developed contingency plan with cost-saving measures during global financial crisis in 2009
+
+#### Education
+SungKyunKwan University, Seoul  
+B.A. in Business Administration (February 2007)
+
+#### Additional Information
+* Languages: Korean(native), English(business level proficiency)
+* Computer skills:
+    SQL(BIG query, Oracle, Pyspark)
+    Proficient in Microsoft Office Suites including Excel VBA(Advanced Excel)
+    SAP FI/CO, BI/BW query design
+    Python and R analysis, Tableau, Amplitude
