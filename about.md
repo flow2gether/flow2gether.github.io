@@ -45,7 +45,7 @@ Data & Business analysis expert with over ten years of hands-on experience in da
 
 
 
-* Created Tableau strategy data mart for management and shareholder reporting using GCP Big Query aligned with the strategy
+<!-- * Created Tableau strategy data mart for management and shareholder reporting using GCP Big Query aligned with the strategy
 * Defined the key metrics and suggested the method for new launching service(타다 NEXT)
 * Searched for user key features through user retention prediction using XGboost and SHAP values
 * Established Marketing OKR and made tableau dashboard for MKT performance
@@ -57,7 +57,7 @@ Data & Business analysis expert with over ten years of hands-on experience in da
     - User Growth Retention/Funnel/Lifecycle/Frequency
     - Multidimensional Operations Dashboard by region and time
     - Ride Funnel; Dashboard showing the funnel from call to drop-off completion or cancellation
-* Trained and coached employees to expand data literacy within the organization
+* Trained and coached employees to expand data literacy within the organization -->
 
 #### Senior Applied Data Scientist(Team Lead) | dunnhumby :computer:
 <img src = "https://www.dunnhumby.com/wp-content/uploads/2023/03/dunnhumby-Logo-Black_RGB.webp" align="right" width = "12%" height = "20%">
@@ -66,17 +66,17 @@ Data & Business analysis expert with over ten years of hands-on experience in da
 
 
 
-* Performed Homeplus Big data analysis
+<!-- * Performed Homeplus Big data analysis
     - Homeplus shopping on Naver
 * Reviewed dunnhumby global science for business development
-* Checked the quality of the analysis report and managed junior data scientist
+* Checked the quality of the analysis report and managed junior data scientist -->
 
 #### AD Sales Planning & Analysis Sr.Manager | Joongang Ilbo :newspaper:  
 <img src = "https://img.joongang.co.kr/pubimg/index/logo_thejoongang.png" align="right" width = "12%" height = "20%">
 
 <small>2017 - 2020</small>
 
- Made the AD business strategy & plan from 2018 to 2020
+ <!-- Made the AD business strategy & plan from 2018 to 2020
 * Monitored the KPIs of AD business unit including digital sales to meet the business target
 * Analyzed AD market and Forecasted newspaper AD sales for business strategy 2019
     - Research of AD market trend and analysis from 2002 to 2018
@@ -85,7 +85,7 @@ Data & Business analysis expert with over ten years of hands-on experience in da
 * Set up the standards of AD customer type of business classification for clear definition of internal business management
 * Performed analysis of AD marketing sales for optimization of Newspaper circulation
 * Segmented Advertiser using RFM analysis and K-means clustering to prevent B2B customer churn
-* Automated daily sales report with R and provided the sales group with useful information for sales
+* Automated daily sales report with R and provided the sales group with useful information for sales -->
 
 
 #### Strategy & Planning Sr. Analyst | CJ CheilJedang :corn:  
@@ -93,7 +93,7 @@ Data & Business analysis expert with over ten years of hands-on experience in da
 
 <small>2011 - 2017</small>
 
-* Designed and developed a financial budgeting and forecasting model by more than 100 products that are consistent with
+<!-- * Designed and developed a financial budgeting and forecasting model by more than 100 products that are consistent with
 business objects and improved the forecasting estimate accuracy within the 5% of error, triggering 15% increase in accuracy
 * Managed cooking oil product profit (sales of KRW 600 billion) to meet the business target
 * Made five-year financial plan of oil business aligned with long term strategy, Great CJ Plan 2020
@@ -103,7 +103,7 @@ business objects and improved the forecasting estimate accuracy within the 5% of
 * Engaged in S&OP conference and decided optimal amount of production for next season
 * Performed ad-hoc analysis and provided advice and financial information to management and operation groups
     - CAPEX review of product line expansion of KRW 10 billion(Canola seed crushing and Sesame oil)
-    - CVP(Cost-Volume-Profit) analysis and financial scenario modeling(EBIT)
+    - CVP(Cost-Volume-Profit) analysis and financial scenario modeling(EBIT) -->
 
 
 #### Strategy & Planning Analyst | Oriental Brewery :beer:  
@@ -112,11 +112,11 @@ business objects and improved the forecasting estimate accuracy within the 5% of
 
 <small>2009 - 2011</small>
 
-* Managed sales volume, marketing and sales expense of KRW 120 billion by brand, channel and region
+<!-- * Managed sales volume, marketing and sales expense of KRW 120 billion by brand, channel and region
 * Proposed expansion of marketing and sales expense of KRW 2 billion
 * Performed analysis of competitor(Hite)’s financial statement and alarmed business issue to management
 * Suggested optimal amount of CAPEX based on industry analysis and applied to strategy and budgeting
-* Updated internal financial report; Volume, MS, commercial & marketing spending
+* Updated internal financial report; Volume, MS, commercial & marketing spending -->
 
 
 #### Business Planning Controller | SAMSUNG SNS :satellite:  
@@ -124,9 +124,9 @@ business objects and improved the forecasting estimate accuracy within the 5% of
 
 <small>2006 - 2009</small>
 
-* Set up budget planning of overhead cost of KRW 50 billion and controlled it to meet business target
+<!-- * Set up budget planning of overhead cost of KRW 50 billion and controlled it to meet business target
 * Established internal expense management process for business plan
-* Developed contingency plan with cost-saving measures during global financial crisis in 2009
+* Developed contingency plan with cost-saving measures during global financial crisis in 2009 -->
 
 #### Education
 SungKyunKwan University, Seoul  
