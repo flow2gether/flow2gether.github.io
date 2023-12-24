@@ -76,7 +76,7 @@ Data & Business analysis expert with over ten years of hands-on experience in da
 
 <small>2017 - 2020</small>
 
- <!-- Made the AD business strategy & plan from 2018 to 2020
+<!-- Made the AD business strategy & plan from 2018 to 2020
 * Monitored the KPIs of AD business unit including digital sales to meet the business target
 * Analyzed AD market and Forecasted newspaper AD sales for business strategy 2019
     - Research of AD market trend and analysis from 2002 to 2018
@@ -85,7 +85,7 @@ Data & Business analysis expert with over ten years of hands-on experience in da
 * Set up the standards of AD customer type of business classification for clear definition of internal business management
 * Performed analysis of AD marketing sales for optimization of Newspaper circulation
 * Segmented Advertiser using RFM analysis and K-means clustering to prevent B2B customer churn
-* Automated daily sales report with R and provided the sales group with useful information for sales -->
+* Automated daily sales report with R and provided the sales group with useful information for sales  -->
 
 
 #### Strategy & Planning Sr. Analyst | CJ CheilJedang :corn:  
